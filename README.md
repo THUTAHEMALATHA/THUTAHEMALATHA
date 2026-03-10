@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Thuta Hemalatha
 
-<!--
-**THUTAHEMALATHA/THUTAHEMALATHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer
 
-Here are some ideas to get you started:
+Portfolio
+https://portfolio-one-wheat-plshr5xyxx.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+FundSpark – Crowdfunding platform
+
+JobTrack
+https://jobtrack-fullstack.vercel.app/
+
+Rock Paper Scissors
+https://rock-paper-scissors-zeta-topaz.vercel.app/
