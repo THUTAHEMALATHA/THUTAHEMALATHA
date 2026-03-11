@@ -1,18 +1,16 @@
 # Hi 👋 I'm Thuta Hemalatha
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Thuta%20Hemalatha&fontSize=40&fontColor=ffffff"/>
-</p>
+<h1 align="center">👩‍💻</h1>
 
-<p align="center" style="font-size:100px">
-👩‍💻
-</p>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Node.js+Backend+Developer;Building+Modern+Web+Applications&center=true&width=500&height=45">
+</h3>
+
 <h2 align="center">💡 Passionate Full Stack Developer | React | Node.js</h2>
 
 <p align="center">
 Building modern web applications using JavaScript technologies.
 </p>
-
 ---
 <details>
 <summary>👉 Minimal Version (Click to view)</summary>
