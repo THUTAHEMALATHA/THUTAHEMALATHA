@@ -20,10 +20,6 @@ I am a **Full Stack Web Developer** focused on building modern and scalable web 
 • 💻 Interested in building real world applications
 • 🤝 Open to collaborating on web development projects
 • ⚡ Passionate about problem solving and coding
-
----
-
-
 • 👩‍💻 All of my projects are available at
 https://portfolio-one-wheat-plshr5xyxx.vercel.app/
 
@@ -59,21 +55,33 @@ https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
 <p>
 
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
+HTML 
+
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
+CSS 
+
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
+JavaScript 
+
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
+React 
+
 <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+Tailwind CSS
 
 </p>
 
 ---
 
-## ⚙️ Backend & APIs
+## ⚙️ Backend
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+Node.js  
+
 <img src="https://skillicons.dev/icons?i=express" height="45"/>
+Express.js
 
 </p>
 
@@ -83,7 +91,11 @@ https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
 
 <p>
 
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+Firebase  
+
 <img src="https://skillicons.dev/icons?i=supabase" height="45"/>
+Supabase
 
 </p>
 
@@ -93,7 +105,9 @@ https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
 
 <p>
 
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-Payment-blue?style=for-the-badge&logo=razorpay"/>
+
+Razorpay Payment Gateway
 
 </p>
 
@@ -104,9 +118,16 @@ https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
 <p>
 
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
+Git  
+
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
+GitHub  
+
 <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+VS Code  
+
 <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+Postman
 
 </p>
 
@@ -127,43 +148,3 @@ https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
 # 🌐 Portfolio
 
 https://portfolio-one-wheat-plshr5xyxx.vercel.app/
-
-
----
-
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=THUTAHEMALATHA&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THUTAHEMALATHA&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Portfolio
-
-https://portfolio-one-wheat-plshr5xyxx.vercel.app/
-
----
-
-# 📫 Contact
-
-GitHub
-https://github.com/THUTAHEMALATHA
-
-Resume
-https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
-
-Email
-[your_email@gmail.com](mailto:your_email@gmail.com)
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=THUTAHEMALATHA&color=blue"/>
-</p>
