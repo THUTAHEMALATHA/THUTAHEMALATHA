@@ -11,7 +11,7 @@
 <p align="center">
 Building modern web applications using JavaScript technologies.
 </p>
----
+
 <details>
 <summary>👉 Minimal Version (Click to view)</summary>
 
