@@ -145,6 +145,16 @@ Postman
 
 ---
 
-# 🌐 Portfolio
+👉 Minimal Version
 
-https://portfolio-one-wheat-plshr5xyxx.vercel.app/
+# Thuta Hemalatha – Full Stack Developer
+
+React | Node.js | Express | Firebase | Supabase | JavaScript
+
+📧 Email: [thutahemalatha@gmail.com](mailto:thutahemalatha@gmail.com)
+
+💻 GitHub: https://github.com/THUTAHEMALATHA
+
+🔗 LinkedIn: https://linkedin.com/in/thuta-hemalatha
+
+🌐 Portfolio: https://portfolio-one-wheat-plshr5xyxx.vercel.app/
