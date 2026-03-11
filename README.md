@@ -4,6 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Thuta%20Hemalatha&fontSize=40&fontColor=ffffff"/>
 </p>
 
+<p align="center" style="font-size:100px">
+👩‍💻
+</p>
 <h2 align="center">💡 Passionate Full Stack Developer | React | Node.js</h2>
 
 <p align="center">
