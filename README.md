@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1hVg8x26g-Zl5Bf40iv060Z-_70SqG4Vk/view
 
 ---
 
-# 🧑‍💻 Languages & Tools
+# 👩‍💻 Languages & Tools
 
 ## 🚀 Frontend
 
