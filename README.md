@@ -33,59 +33,7 @@ I am a **Full Stack Web Developer** focused on building modern and scalable web 
 
 ---
 
-# 💻 Featured Projects
 
-### 🚀 FundSpark
-
-Crowdfunding platform connecting creators with supporters.
-
-Features
-
-• Project creation and publishing
-• Secure donations using Razorpay
-• Real-time funding progress tracking
-• Community comments system
-
-Tech Stack
-React | Node.js | Express | Supabase | Razorpay | Tailwind
-
----
-
-### 💼 JobTrack
-
-Full stack job application tracker.
-
-Live Demo
-https://jobtrack-fullstack.vercel.app/
-
-Features
-
-• Add job applications
-• Update job application status
-• Track application progress
-
-Tech Stack
-React | Node.js | Express
-
----
-
-### 🎮 Rock Paper Scissors
-
-Interactive browser game built using JavaScript.
-
-Live Demo
-https://rock-paper-scissors-zeta-topaz.vercel.app/
-
-Features
-
-• Dynamic UI updates
-• Random computer moves
-• Score tracking
-
-Tech Stack
-HTML | CSS | JavaScript
-
----
 
 # 📊 GitHub Stats
 
